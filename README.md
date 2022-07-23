@@ -10,8 +10,8 @@
   
 ### 💬 Доп. информация:
   
-    + 🔭 I am currently studying python, django, web<br>
-    + 🔭 В настоящее время я изучаю python, django, web
+  - 🔭 I am currently studying python, django, web<br>
+  - 🔭 В настоящее время я изучаю python, django, web
  
   - 📫 How to contact me maksim.andreev.99@bk.ru<br>
   - 📫 Как со мной связаться maksim.andreev.99@bk.ru
