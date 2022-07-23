@@ -2,7 +2,7 @@
 
 ### 💬 A few about me:
   
-  _At this stage of my life, I am at a crossroads. I graduated from university and am now actively looking for a job. If you are here and now, then you want to view my modest works, which I will be very happy about 😄 At the moment they are in active revision and polishing, but they very clearly reflect my style of writing code and knowledge at the moment - ⚡_
+>>> _At this stage of my life, I am at a crossroads. I graduated from university and am now actively looking for a job. If you are here and now, then you want to view my modest works, which I will be very happy about 😄 At the moment they are in active revision and polishing, but they very clearly reflect my style of writing code and knowledge at the moment - ⚡_
 
 ### 💬 Немного обо мне: 
   
