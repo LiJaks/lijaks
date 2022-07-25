@@ -16,7 +16,7 @@
   * 📫 How to contact me maksim.andreev.99@bk.ru<br>
   * 📫 Как со мной связаться maksim.andreev.99@bk.ru
 
-  * 🌍 I speak Russian (native), English (B2)<br>
+  * 🌍 I speak Russian (native), English (A2-B1)<br>
   * 🌍 Я говорю по-русски (родной), По-английски (A2-B1)
 
 
