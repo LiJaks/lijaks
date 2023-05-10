@@ -1,23 +1,8 @@
 ### <h1 align="center">Hi there, I'm Maks!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### 💬 A few about me:
-  
-> _At the moment I graduated from university and am actively looking for a job. If you are here and now, then you want to view my modest works, which I will be very happy about 😄 At the moment they are in active revision and polishing, but they very clearly reflect my style of writing code and knowledge at the moment - ⚡_
-
 ### 💬 Немного обо мне: 
   
-> _На данный момент я окончил университет и нахожусь в активном поиске работы. Если вы оказались здесь и сейчас, значит вы хотите просмотреть мои скромные работы, чему я буду очень рад  😄 На данный момент они в активной доработке и шлифовке, но очень четко отражают мой стиль написания кода и знания на данный момент ⚡_
-  
-### 💬 Доп. информация:
-  
-  * 🔭 I am currently studying python, django, web<br>
-  * 🔭 В настоящее время я изучаю python, django, web
- 
-  * 📫 How to contact me maksim.andreev.99@bk.ru<br>
-  * 📫 Как со мной связаться maksim.andreev.99@bk.ru
-
-  * 🌍 I speak Russian (native), English (A2-B1)<br>
-  * 🌍 Я говорю по-русски (родной), По-английски (A2-B1)
+> _На данный момент я работаю в IceRock на позиции QA.⚡_
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
